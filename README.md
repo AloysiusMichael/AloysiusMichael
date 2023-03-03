@@ -1,5 +1,5 @@
 ### Hi there, My name is Wilhelmus 👋
-
+⚡ Fun fact: I am still a student
 <!--
 **AloysiusMichael/AloysiusMichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
