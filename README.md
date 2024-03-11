@@ -6,7 +6,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
- <a href="https://www.instagram.com/aloysiusmw1602/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AloysiusMichael" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/aloysius1630?igsh=dnVwdjlyeHphMGxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AloysiusMichael" height="30" width="40" /></a>
   <a href="https://www.facebook.com/aloysius.keren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AloysiusMichael" height="30" width="40" /></a></p>
  
 # Current Language :
