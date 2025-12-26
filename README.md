@@ -1,5 +1,7 @@
 ### Hi there, My name is Wilhelmus 👋
-⚡ Fun fact: I am a student
+💼 IT Application Helpdesk at PT Mitra Seribu Saudara  
+🔧 Focus on application support, SQL troubleshooting, and system improvement
+
 <h3 align="center"> Majoring in Information Systems 💻 from Multi Data University.Palembang.Indonesia</h3>
 
 ![](http://i.imgur.com/y8g506n.png?1)<br>
